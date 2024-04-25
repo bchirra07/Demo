@@ -6,6 +6,8 @@ import java.io.*;
 public class EchoClient2 {
 
    static final String endMessage = ".";
+   
+   //Initiate Second Commit
 
    public static void main(String[] args) {
 	  
